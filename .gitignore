@@ -1,0 +1,10 @@
+# environemnt
+.idea
+.go-version
+
+# caches
+cover.out
+
+# hidden entities
+.ignore*
+ignore*
