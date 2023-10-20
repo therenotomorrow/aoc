@@ -1,6 +1,21 @@
 package y2015
 
-func NotQuiteLisp(stairs string, isBasement bool) int {
+func Day01Part1(stairs string) int {
+	floor := 0
+
+	for _, stair := range stairs {
+		switch stair {
+		case '(':
+			floor++
+		case ')':
+			floor--
+		}
+	}
+
+	return floor
+}
+
+func Day01Part2(stairs string) int {
 	floor := 0
 
 	for pos, stair := range stairs {
@@ -11,10 +26,11 @@ func NotQuiteLisp(stairs string, isBasement bool) int {
 			floor--
 		}
 
-		if isBasement && floor == -1 {
+		if floor == -1 {
 			return pos + 1
 		}
 	}
 
-	return floor
+	// impossible because of task description
+	return 0
 }
