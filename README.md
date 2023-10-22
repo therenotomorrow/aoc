@@ -31,3 +31,4 @@ Completed
 |  1  | [Not Quite Lisp](https://adventofcode.com/2015/day/1)                         | [`d01.go`](./internal/y2015/d01.go) |
 |  2  | [I Was Told There Would Be No Math](https://adventofcode.com/2015/day/2)      | [`d02.go`](./internal/y2015/d02.go) |
 |  3  | [Perfectly Spherical Houses in a Vacuum](https://adventofcode.com/2015/day/3) | [`d03.go`](./internal/y2015/d03.go) |
+|  4  | [Th¬e Ideal Stocking Stuffer](https://adventofcode.com/2015/day/4)            | [`d04.go`](./internal/y2015/d04.go) |
