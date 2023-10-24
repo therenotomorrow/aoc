@@ -32,3 +32,5 @@ Completed
 |  2  | [I Was Told There Would Be No Math](https://adventofcode.com/2015/day/2)      | [`d02.go`](./internal/y2015/d02.go) |
 |  3  | [Perfectly Spherical Houses in a Vacuum](https://adventofcode.com/2015/day/3) | [`d03.go`](./internal/y2015/d03.go) |
 |  4  | [Th¬e Ideal Stocking Stuffer](https://adventofcode.com/2015/day/4)            | [`d04.go`](./internal/y2015/d04.go) |
+|  5  | [Doesn't He Have Intern-Elves For This?](https://adventofcode.com/2015/day/5) | [`d05.go`](./internal/y2015/d05.go) |
+|  6  | [Probably a Fire Hazard](https://adventofcode.com/2015/day/6)                 | [`d06.go`](./internal/y2015/d06.go) |

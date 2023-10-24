@@ -2,6 +2,7 @@ package datastruct
 
 type Set interface {
 	Add(val interface{})
+	Populate(vals ...interface{})
 	Contains(val interface{}) (ok bool)
 	Size() int
 }
@@ -30,4 +31,10 @@ func (s *set) Contains(val interface{}) (ok bool) {
 
 func (s *set) Size() int {
 	return s.size
+}
+
+func (s *set) Populate(vals ...interface{}) {
+	for _, val := range vals {
+		s.Add(val)
+	}
 }

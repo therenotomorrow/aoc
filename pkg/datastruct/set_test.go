@@ -32,3 +32,15 @@ func TestSetAddContainsSize(t *testing.T) {
 		t.Errorf("Size() = %v, want = %v", got, 2)
 	}
 }
+
+func TestSetPopulate(t *testing.T) {
+	s := datastruct.NewSet()
+
+	s.Populate(1, 2, 3, 4, 5)
+
+	for i := 1; i <= 5; i++ {
+		if got := s.Contains(i); !got {
+			t.Errorf("Populate() = %v, want = %v", got, i)
+		}
+	}
+}
