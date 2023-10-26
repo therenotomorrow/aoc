@@ -9,7 +9,6 @@ type Set interface {
 
 type set struct {
 	data map[interface{}]bool
-	size int
 }
 
 func NewSet() Set {
@@ -22,7 +21,6 @@ func (s *set) Add(val interface{}) {
 	}
 
 	s.data[val] = true
-	s.size++
 }
 
 func (s *set) Contains(val interface{}) (ok bool) {
@@ -30,7 +28,7 @@ func (s *set) Contains(val interface{}) (ok bool) {
 }
 
 func (s *set) Size() int {
-	return s.size
+	return len(s.data)
 }
 
 func (s *set) Populate(vals ...interface{}) {

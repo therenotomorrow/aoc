@@ -34,3 +34,5 @@ Completed
 |  4  | [Th¬e Ideal Stocking Stuffer](https://adventofcode.com/2015/day/4)            | [`d04.go`](./internal/y2015/d04.go) |
 |  5  | [Doesn't He Have Intern-Elves For This?](https://adventofcode.com/2015/day/5) | [`d05.go`](./internal/y2015/d05.go) |
 |  6  | [Probably a Fire Hazard](https://adventofcode.com/2015/day/6)                 | [`d06.go`](./internal/y2015/d06.go) |
+|  7  | [Some Assembly Required](https://adventofcode.com/2015/day/7)                 | [`d07.go`](./internal/y2015/d07.go) |
+|  8  | [Matchsticks](https://adventofcode.com/2015/day/8)                            | [`d08.go`](./internal/y2015/d08.go) |
