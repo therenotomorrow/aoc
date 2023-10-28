@@ -36,3 +36,4 @@ Completed
 |  6  | [Probably a Fire Hazard](https://adventofcode.com/2015/day/6)                 | [`d06.go`](./internal/y2015/d06.go) |
 |  7  | [Some Assembly Required](https://adventofcode.com/2015/day/7)                 | [`d07.go`](./internal/y2015/d07.go) |
 |  8  | [Matchsticks](https://adventofcode.com/2015/day/8)                            | [`d08.go`](./internal/y2015/d08.go) |
+| 10  | [Elves Look, Elves Say](https://adventofcode.com/2015/day/10)                 | [`d10.go`](./internal/y2015/d10.go) |
