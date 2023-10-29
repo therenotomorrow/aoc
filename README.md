@@ -37,3 +37,5 @@ Completed
 |  7  | [Some Assembly Required](https://adventofcode.com/2015/day/7)                 | [`d07.go`](./internal/y2015/d07.go) |
 |  8  | [Matchsticks](https://adventofcode.com/2015/day/8)                            | [`d08.go`](./internal/y2015/d08.go) |
 | 10  | [Elves Look, Elves Say](https://adventofcode.com/2015/day/10)                 | [`d10.go`](./internal/y2015/d10.go) |
+| 11  | [Corporate Policy](https://adventofcode.com/2015/day/11)                      | [`d11.go`](./internal/y2015/d11.go) |
+| 12  | [JSAbacusFramework.io](https://adventofcode.com/2015/day/12)                  | [`d12.go`](./internal/y2015/d12.go) |
