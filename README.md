@@ -40,3 +40,5 @@ Completed
 | 10  | [Elves Look, Elves Say](https://adventofcode.com/2015/day/10)                 | [`d10.go`](./internal/y2015/d10.go) |
 | 11  | [Corporate Policy](https://adventofcode.com/2015/day/11)                      | [`d11.go`](./internal/y2015/d11.go) |
 | 12  | [JSAbacusFramework.io](https://adventofcode.com/2015/day/12)                  | [`d12.go`](./internal/y2015/d12.go) |
+| 13  | [Knights of the Dinner Table](https://adventofcode.com/2015/day/13)           | [`d13.go`](./internal/y2015/d13.go) |
+| 14  | [Reindeer Olympics](https://adventofcode.com/2015/day/14)                     | [`d14.go`](./internal/y2015/d14.go) |
