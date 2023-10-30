@@ -1,7 +1,7 @@
 Advent of Code
 ==============
 
-> [Advent of Code](https://adventofcode.com/) calendar and how I dive into.
+[Advent of Code](https://adventofcode.com/) calendar and how I dive into.
 
 Development
 -----------
