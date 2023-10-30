@@ -1,7 +1,6 @@
 # environemnt
 .idea
 .go-version
-.python-version
 
 # caches
 cover.out
