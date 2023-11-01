@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-set -x
+set -ex
 
 ./scripts/code.sh
 ./scripts/test.sh -fast
