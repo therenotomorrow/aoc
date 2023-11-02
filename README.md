@@ -43,3 +43,4 @@ Completed
 | 13  | [Knights of the Dinner Table](https://adventofcode.com/2015/day/13)           | [`d13.go`](./internal/y2015/d13.go) |
 | 14  | [Reindeer Olympics](https://adventofcode.com/2015/day/14)                     | [`d14.go`](./internal/y2015/d14.go) |
 | 15  | [Science for Hungry People](https://adventofcode.com/2015/day/15)             | [`d15.go`](./internal/y2015/d15.go) |
+| 15  | [Aunt Sue](https://adventofcode.com/2015/day/16)                              | [`d16.go`](./internal/y2015/d16.go) |
