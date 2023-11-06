@@ -45,3 +45,5 @@ Completed
 | 15  | [Science for Hungry People](https://adventofcode.com/2015/day/15)             | [`d15.go`](./internal/y2015/d15.go) |
 | 16  | [Aunt Sue](https://adventofcode.com/2015/day/16)                              | [`d16.go`](./internal/y2015/d16.go) |
 | 17  | [No Such Thing as Too Much](https://adventofcode.com/2015/day/17)             | [`d17.go`](./internal/y2015/d17.go) |
+| 19  | [Medicine for Rudolph](https://adventofcode.com/2015/day/19)                  | [`d19.go`](./internal/y2015/d19.go) |
+| 20  | [Infinite Elves and Infinite Houses](https://adventofcode.com/2015/day/20)    | [`d20.go`](./internal/y2015/d20.go) |
