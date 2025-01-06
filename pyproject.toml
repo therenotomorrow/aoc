@@ -1,0 +1,35 @@
+[project]
+name = "aoc"
+version = "0.0.2024"
+description = "Advent of Code solutions implemented in Python, featuring elegant and efficient approaches to daily algorithmic challenges."
+authors = [
+    { name = "Kirill Kolesnikov", email = "kkxnes@gmail.com" }
+]
+license = { file = "LICENSE" }
+readme = "README.md"
+requires-python = "^3.13"
+dependencies = [
+    "isort (>=5.13.2,<6.0.0)",
+    "black (>=24.10.0,<25.0.0)",
+    "mypy (>=1.14.1,<2.0.0)",
+    "wemake-python-styleguide (>=1.0.0,<2.0.0)",
+    "pytest (>=8.3.4,<9.0.0)",
+    "pytest-xdist (>=3.6.1,<4.0.0)",
+    "pytest-cov (>=6.0.0,<7.0.0)",
+]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.isort]
+line_length = 120
+multi_line_output = 3
+include_trailing_comma = true
+use_parentheses = true
+ensure_newline_before_comments = true
+
+[tool.black]
+line-length = 120
+skip_string_normalization = true
+target_version = ["py313"]

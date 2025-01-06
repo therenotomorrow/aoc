@@ -1,0 +1,11 @@
+# environemnt
+.idea
+.python-version
+
+# caches
+__pycache__
+.coverage*
+
+# hidden entities
+.ignore*
+ignore*
